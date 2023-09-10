@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/owaissayyed/](https://github.com/owaissayyed/)
 
-- 💬 Ask me about **Javascript framework**
+- 💬 Ask me about **Web Application, E-commerce Website**
 
 - 📫 How to reach me **owaissayyed0041@gmail.com**
 
